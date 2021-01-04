@@ -1,4 +1,7 @@
-"contents": [
+{
+  "amount": 416,
+  "count": 8,
+  "contents": [
     {
       "product_id": 0,
       "name": "MANGO PEOPLE T-SHIRT",
@@ -34,4 +37,5 @@
       "amount": 2,
       "img": "https://raw.githubusercontent.com/Akseonov/static/main/psd_1/img/feature_item_5.jpg"
     }
-]
+  ]
+}
